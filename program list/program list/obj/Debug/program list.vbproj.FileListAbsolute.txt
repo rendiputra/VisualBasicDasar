@@ -1,0 +1,11 @@
+D:\DOCUMENT TUGAS\VB\program list\program list\bin\Debug\program list.exe.config
+D:\DOCUMENT TUGAS\VB\program list\program list\bin\Debug\program list.exe
+D:\DOCUMENT TUGAS\VB\program list\program list\bin\Debug\program list.pdb
+D:\DOCUMENT TUGAS\VB\program list\program list\bin\Debug\program list.xml
+D:\DOCUMENT TUGAS\VB\program list\program list\obj\Debug\program list.vbprojResolveAssemblyReference.cache
+D:\DOCUMENT TUGAS\VB\program list\program list\obj\Debug\program_list.Form1.resources
+D:\DOCUMENT TUGAS\VB\program list\program list\obj\Debug\program_list.Resources.resources
+D:\DOCUMENT TUGAS\VB\program list\program list\obj\Debug\program list.vbproj.GenerateResource.Cache
+D:\DOCUMENT TUGAS\VB\program list\program list\obj\Debug\program list.exe
+D:\DOCUMENT TUGAS\VB\program list\program list\obj\Debug\program list.xml
+D:\DOCUMENT TUGAS\VB\program list\program list\obj\Debug\program list.pdb

@@ -1,0 +1,32 @@
+D:\DOCUMENT TUGAS\VB\Pembukuan\Pembukuan\bin\Debug\Pembukuan.exe.config
+D:\DOCUMENT TUGAS\VB\Pembukuan\Pembukuan\bin\Debug\Pembukuan.exe
+D:\DOCUMENT TUGAS\VB\Pembukuan\Pembukuan\bin\Debug\Pembukuan.pdb
+D:\DOCUMENT TUGAS\VB\Pembukuan\Pembukuan\bin\Debug\Pembukuan.xml
+D:\DOCUMENT TUGAS\VB\Pembukuan\Pembukuan\obj\Debug\Pembukuan.vbprojResolveAssemblyReference.cache
+D:\DOCUMENT TUGAS\VB\Pembukuan\Pembukuan\obj\Debug\Pembukuan.Form1.resources
+D:\DOCUMENT TUGAS\VB\Pembukuan\Pembukuan\obj\Debug\Pembukuan.Resources.resources
+D:\DOCUMENT TUGAS\VB\Pembukuan\Pembukuan\obj\Debug\Pembukuan.vbproj.GenerateResource.Cache
+D:\DOCUMENT TUGAS\VB\Pembukuan\Pembukuan\obj\Debug\Pembukuan.exe
+D:\DOCUMENT TUGAS\VB\Pembukuan\Pembukuan\obj\Debug\Pembukuan.xml
+D:\DOCUMENT TUGAS\VB\Pembukuan\Pembukuan\obj\Debug\Pembukuan.pdb
+D:\DOCUMENT TUGAS\VB\Pembukuan\Pembukuan\obj\Debug\Pembukuan.data_konsumen.resources
+D:\DOCUMENT TUGAS\VB\Pembukuan\Pembukuan\obj\Debug\Pembukuan.inputdata.resources
+D:\DOCUMENT TUGAS\VB\Pembukuan\Pembukuan\obj\Debug\Pembukuan.login.resources
+C:\Users\Win10\Documents\OFFICE\Jurnal 2018 (SECRET)\Pembukuan\Pembukuan\bin\Debug\Pembukuan.exe.config
+C:\Users\Win10\Documents\OFFICE\Jurnal 2018 (SECRET)\Pembukuan\Pembukuan\obj\Debug\Pembukuan.exe
+C:\Users\Win10\Documents\OFFICE\Jurnal 2018 (SECRET)\Pembukuan\Pembukuan\obj\Debug\Pembukuan.xml
+C:\Users\Win10\Documents\OFFICE\Jurnal 2018 (SECRET)\Pembukuan\Pembukuan\obj\Debug\Pembukuan.pdb
+C:\Users\Win10\Documents\OFFICE\Jurnal 2018 (SECRET)\Pembukuan\Pembukuan\bin\Debug\Pembukuan.exe
+C:\Users\Win10\Documents\OFFICE\Jurnal 2018 (SECRET)\Pembukuan\Pembukuan\bin\Debug\Pembukuan.pdb
+C:\Users\Win10\Documents\OFFICE\Jurnal 2018 (SECRET)\Pembukuan\Pembukuan\bin\Debug\Pembukuan.xml
+C:\Users\Win10\Documents\OFFICE\Jurnal 2018 (SECRET)\Pembukuan\Pembukuan\obj\Debug\Pembukuan.vbprojResolveAssemblyReference.cache
+C:\Users\Win10\Documents\OFFICE\Jurnal 2018 (SECRET)\Pembukuan\Pembukuan\obj\Debug\Pembukuan.data_konsumen.resources
+C:\Users\Win10\Documents\OFFICE\Jurnal 2018 (SECRET)\Pembukuan\Pembukuan\obj\Debug\Pembukuan.Form1.resources
+C:\Users\Win10\Documents\OFFICE\Jurnal 2018 (SECRET)\Pembukuan\Pembukuan\obj\Debug\Pembukuan.inputdata.resources
+C:\Users\Win10\Documents\OFFICE\Jurnal 2018 (SECRET)\Pembukuan\Pembukuan\obj\Debug\Pembukuan.login.resources
+C:\Users\Win10\Documents\OFFICE\Jurnal 2018 (SECRET)\Pembukuan\Pembukuan\obj\Debug\Pembukuan.Resources.resources
+C:\Users\Win10\Documents\OFFICE\Jurnal 2018 (SECRET)\Pembukuan\Pembukuan\obj\Debug\Pembukuan.vbproj.GenerateResource.Cache
+C:\Users\Win10\Documents\OFFICE\Jurnal 2018 (SECRET)\Pembukuan\Pembukuan\bin\Debug\Pembukuan.exe.manifest
+C:\Users\Win10\Documents\OFFICE\Jurnal 2018 (SECRET)\Pembukuan\Pembukuan\bin\Debug\Pembukuan.application
+C:\Users\Win10\Documents\OFFICE\Jurnal 2018 (SECRET)\Pembukuan\Pembukuan\obj\Debug\Pembukuan.exe.manifest
+C:\Users\Win10\Documents\OFFICE\Jurnal 2018 (SECRET)\Pembukuan\Pembukuan\obj\Debug\Pembukuan.application

@@ -1,0 +1,15 @@
+D:\DOCUMENT TUGAS\VB\splashscreen\splashscreen\bin\Debug\splashscreen.exe.config
+D:\DOCUMENT TUGAS\VB\splashscreen\splashscreen\obj\Debug\splashscreen.vbprojResolveAssemblyReference.cache
+D:\DOCUMENT TUGAS\VB\splashscreen\splashscreen\obj\Debug\splashscreen.Form1.resources
+D:\DOCUMENT TUGAS\VB\splashscreen\splashscreen\obj\Debug\splashscreen.Form2.resources
+D:\DOCUMENT TUGAS\VB\splashscreen\splashscreen\obj\Debug\splashscreen.Resources.resources
+D:\DOCUMENT TUGAS\VB\splashscreen\splashscreen\obj\Debug\splashscreen.vbproj.GenerateResource.Cache
+D:\DOCUMENT TUGAS\VB\splashscreen\splashscreen\bin\Debug\splashscreen.exe
+D:\DOCUMENT TUGAS\VB\splashscreen\splashscreen\bin\Debug\splashscreen.pdb
+D:\DOCUMENT TUGAS\VB\splashscreen\splashscreen\bin\Debug\splashscreen.xml
+D:\DOCUMENT TUGAS\VB\splashscreen\splashscreen\obj\Debug\splashscreen.exe
+D:\DOCUMENT TUGAS\VB\splashscreen\splashscreen\obj\Debug\splashscreen.xml
+D:\DOCUMENT TUGAS\VB\splashscreen\splashscreen\obj\Debug\splashscreen.pdb
+D:\DOCUMENT TUGAS\VB\splashscreen\splashscreen\bin\Debug\ulangan_cahya vallenio.mdb
+D:\DOCUMENT TUGAS\VB\splashscreen\splashscreen\obj\Debug\splashscreen.Form3.resources
+D:\DOCUMENT TUGAS\VB\splashscreen\splashscreen\obj\Debug\splashscreen.Form4.resources

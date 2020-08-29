@@ -1,0 +1,15 @@
+D:\DOCUMENT TUGAS\VB\perpus1\perpus1\bin\Debug\perpus1.exe.config
+D:\DOCUMENT TUGAS\VB\perpus1\perpus1\bin\Debug\perpus1.exe
+D:\DOCUMENT TUGAS\VB\perpus1\perpus1\bin\Debug\perpus1.pdb
+D:\DOCUMENT TUGAS\VB\perpus1\perpus1\bin\Debug\perpus1.xml
+D:\DOCUMENT TUGAS\VB\perpus1\perpus1\obj\Debug\perpus1.vbprojResolveAssemblyReference.cache
+D:\DOCUMENT TUGAS\VB\perpus1\perpus1\obj\Debug\perpus1.Form1.resources
+D:\DOCUMENT TUGAS\VB\perpus1\perpus1\obj\Debug\perpus1.Form2.resources
+D:\DOCUMENT TUGAS\VB\perpus1\perpus1\obj\Debug\perpus1.Resources.resources
+D:\DOCUMENT TUGAS\VB\perpus1\perpus1\obj\Debug\perpus1.vbproj.GenerateResource.Cache
+D:\DOCUMENT TUGAS\VB\perpus1\perpus1\obj\Debug\perpus1.exe
+D:\DOCUMENT TUGAS\VB\perpus1\perpus1\obj\Debug\perpus1.xml
+D:\DOCUMENT TUGAS\VB\perpus1\perpus1\obj\Debug\perpus1.pdb
+D:\DOCUMENT TUGAS\VB\perpus1\perpus1\obj\Debug\perpus1.Form3.resources
+D:\DOCUMENT TUGAS\VB\perpus1\perpus1\obj\Debug\perpus1.Form4.resources
+D:\DOCUMENT TUGAS\VB\perpus1\perpus1\obj\Debug\perpus1.Form5.resources

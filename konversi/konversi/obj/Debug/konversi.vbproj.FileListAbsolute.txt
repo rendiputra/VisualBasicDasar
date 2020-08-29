@@ -1,0 +1,14 @@
+D:\DOCUMENT TUGAS\VB\konversi\konversi\bin\Debug\konversi.exe.config
+D:\DOCUMENT TUGAS\VB\konversi\konversi\bin\Debug\konversi.exe
+D:\DOCUMENT TUGAS\VB\konversi\konversi\bin\Debug\konversi.pdb
+D:\DOCUMENT TUGAS\VB\konversi\konversi\bin\Debug\konversi.xml
+D:\DOCUMENT TUGAS\VB\konversi\konversi\obj\Debug\konversi.vbprojResolveAssemblyReference.cache
+D:\DOCUMENT TUGAS\VB\konversi\konversi\obj\Debug\konversi.Form1.resources
+D:\DOCUMENT TUGAS\VB\konversi\konversi\obj\Debug\konversi.Resources.resources
+D:\DOCUMENT TUGAS\VB\konversi\konversi\obj\Debug\konversi.vbproj.GenerateResource.Cache
+D:\DOCUMENT TUGAS\VB\konversi\konversi\obj\Debug\konversi.exe
+D:\DOCUMENT TUGAS\VB\konversi\konversi\obj\Debug\konversi.xml
+D:\DOCUMENT TUGAS\VB\konversi\konversi\obj\Debug\konversi.pdb
+D:\DOCUMENT TUGAS\VB\konversi\konversi\obj\Debug\konversi.Form2.resources
+D:\DOCUMENT TUGAS\VB\konversi\konversi\obj\Debug\konversi.Form3.resources
+D:\DOCUMENT TUGAS\VB\konversi\konversi\obj\Debug\konversi.Form4.resources

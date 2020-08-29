@@ -1,0 +1,12 @@
+D:\DOCUMENT TUGAS\VB\syntax_vb\syntax_vb\bin\Debug\syntax_vb.exe.config
+D:\DOCUMENT TUGAS\VB\syntax_vb\syntax_vb\bin\Debug\syntax_vb.exe
+D:\DOCUMENT TUGAS\VB\syntax_vb\syntax_vb\bin\Debug\syntax_vb.pdb
+D:\DOCUMENT TUGAS\VB\syntax_vb\syntax_vb\bin\Debug\syntax_vb.xml
+D:\DOCUMENT TUGAS\VB\syntax_vb\syntax_vb\obj\Debug\syntax_vb.vbprojResolveAssemblyReference.cache
+D:\DOCUMENT TUGAS\VB\syntax_vb\syntax_vb\obj\Debug\syntax_vb.Form1.resources
+D:\DOCUMENT TUGAS\VB\syntax_vb\syntax_vb\obj\Debug\syntax_vb.Form2.resources
+D:\DOCUMENT TUGAS\VB\syntax_vb\syntax_vb\obj\Debug\syntax_vb.Resources.resources
+D:\DOCUMENT TUGAS\VB\syntax_vb\syntax_vb\obj\Debug\syntax_vb.vbproj.GenerateResource.Cache
+D:\DOCUMENT TUGAS\VB\syntax_vb\syntax_vb\obj\Debug\syntax_vb.exe
+D:\DOCUMENT TUGAS\VB\syntax_vb\syntax_vb\obj\Debug\syntax_vb.xml
+D:\DOCUMENT TUGAS\VB\syntax_vb\syntax_vb\obj\Debug\syntax_vb.pdb

@@ -1,0 +1,11 @@
+D:\DOCUMENT TUGAS\VB\Menu Strip\Menu Strip\bin\Debug\Menu Strip.exe.config
+D:\DOCUMENT TUGAS\VB\Menu Strip\Menu Strip\bin\Debug\Menu Strip.exe
+D:\DOCUMENT TUGAS\VB\Menu Strip\Menu Strip\bin\Debug\Menu Strip.pdb
+D:\DOCUMENT TUGAS\VB\Menu Strip\Menu Strip\bin\Debug\Menu Strip.xml
+D:\DOCUMENT TUGAS\VB\Menu Strip\Menu Strip\obj\Debug\Menu Strip.vbprojResolveAssemblyReference.cache
+D:\DOCUMENT TUGAS\VB\Menu Strip\Menu Strip\obj\Debug\Menu_Strip.Form1.resources
+D:\DOCUMENT TUGAS\VB\Menu Strip\Menu Strip\obj\Debug\Menu_Strip.Resources.resources
+D:\DOCUMENT TUGAS\VB\Menu Strip\Menu Strip\obj\Debug\Menu Strip.vbproj.GenerateResource.Cache
+D:\DOCUMENT TUGAS\VB\Menu Strip\Menu Strip\obj\Debug\Menu Strip.exe
+D:\DOCUMENT TUGAS\VB\Menu Strip\Menu Strip\obj\Debug\Menu Strip.xml
+D:\DOCUMENT TUGAS\VB\Menu Strip\Menu Strip\obj\Debug\Menu Strip.pdb

@@ -1,0 +1,11 @@
+D:\DOCUMENT TUGAS\VB\aplkasirental\aplkasirental\bin\Debug\aplkasirental.exe.config
+D:\DOCUMENT TUGAS\VB\aplkasirental\aplkasirental\bin\Debug\aplkasirental.exe
+D:\DOCUMENT TUGAS\VB\aplkasirental\aplkasirental\bin\Debug\aplkasirental.pdb
+D:\DOCUMENT TUGAS\VB\aplkasirental\aplkasirental\bin\Debug\aplkasirental.xml
+D:\DOCUMENT TUGAS\VB\aplkasirental\aplkasirental\obj\Debug\aplkasirental.vbprojResolveAssemblyReference.cache
+D:\DOCUMENT TUGAS\VB\aplkasirental\aplkasirental\obj\Debug\aplkasirental.Form1.resources
+D:\DOCUMENT TUGAS\VB\aplkasirental\aplkasirental\obj\Debug\aplkasirental.Resources.resources
+D:\DOCUMENT TUGAS\VB\aplkasirental\aplkasirental\obj\Debug\aplkasirental.vbproj.GenerateResource.Cache
+D:\DOCUMENT TUGAS\VB\aplkasirental\aplkasirental\obj\Debug\aplkasirental.exe
+D:\DOCUMENT TUGAS\VB\aplkasirental\aplkasirental\obj\Debug\aplkasirental.xml
+D:\DOCUMENT TUGAS\VB\aplkasirental\aplkasirental\obj\Debug\aplkasirental.pdb

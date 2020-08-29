@@ -1,0 +1,31 @@
+D:\Dokumen\VB\karyawan161018\karyawan161018\bin\Debug\karyawan161018.exe.config
+D:\Dokumen\VB\karyawan161018\karyawan161018\bin\Debug\karyawan161018.exe
+D:\Dokumen\VB\karyawan161018\karyawan161018\bin\Debug\karyawan161018.pdb
+D:\Dokumen\VB\karyawan161018\karyawan161018\bin\Debug\karyawan161018.xml
+D:\Dokumen\VB\karyawan161018\karyawan161018\obj\Debug\karyawan161018.Form1.resources
+D:\Dokumen\VB\karyawan161018\karyawan161018\obj\Debug\karyawan161018.Resources.resources
+D:\Dokumen\VB\karyawan161018\karyawan161018\obj\Debug\karyawan161018.vbproj.GenerateResource.Cache
+D:\Dokumen\VB\karyawan161018\karyawan161018\obj\Debug\karyawan161018.exe
+D:\Dokumen\VB\karyawan161018\karyawan161018\obj\Debug\karyawan161018.xml
+D:\Dokumen\VB\karyawan161018\karyawan161018\obj\Debug\karyawan161018.pdb
+C:\Users\ROKHADI.S\Documents\Visual Studio 2012\Projects\karyawan161018\karyawan161018\bin\Debug\karyawan161018.exe.config
+C:\Users\ROKHADI.S\Documents\Visual Studio 2012\Projects\karyawan161018\karyawan161018\obj\Debug\karyawan161018.exe
+C:\Users\ROKHADI.S\Documents\Visual Studio 2012\Projects\karyawan161018\karyawan161018\obj\Debug\karyawan161018.xml
+C:\Users\ROKHADI.S\Documents\Visual Studio 2012\Projects\karyawan161018\karyawan161018\obj\Debug\karyawan161018.pdb
+C:\Users\ROKHADI.S\Documents\Visual Studio 2012\Projects\karyawan161018\karyawan161018\bin\Debug\karyawan161018.exe
+C:\Users\ROKHADI.S\Documents\Visual Studio 2012\Projects\karyawan161018\karyawan161018\bin\Debug\karyawan161018.pdb
+C:\Users\ROKHADI.S\Documents\Visual Studio 2012\Projects\karyawan161018\karyawan161018\bin\Debug\karyawan161018.xml
+C:\Users\ROKHADI.S\Documents\Visual Studio 2012\Projects\karyawan161018\karyawan161018\obj\Debug\karyawan161018.Form1.resources
+C:\Users\ROKHADI.S\Documents\Visual Studio 2012\Projects\karyawan161018\karyawan161018\obj\Debug\karyawan161018.Resources.resources
+C:\Users\ROKHADI.S\Documents\Visual Studio 2012\Projects\karyawan161018\karyawan161018\obj\Debug\karyawan161018.vbproj.GenerateResource.Cache
+D:\DOCUMENT TUGAS\VB\karyawan\karyawan161018\bin\Debug\karyawan161018.exe.config
+D:\DOCUMENT TUGAS\VB\karyawan\karyawan161018\bin\Debug\karyawan161018.exe
+D:\DOCUMENT TUGAS\VB\karyawan\karyawan161018\bin\Debug\karyawan161018.pdb
+D:\DOCUMENT TUGAS\VB\karyawan\karyawan161018\bin\Debug\karyawan161018.xml
+D:\DOCUMENT TUGAS\VB\karyawan\karyawan161018\obj\Debug\karyawan161018.vbprojResolveAssemblyReference.cache
+D:\DOCUMENT TUGAS\VB\karyawan\karyawan161018\obj\Debug\karyawan161018.Form1.resources
+D:\DOCUMENT TUGAS\VB\karyawan\karyawan161018\obj\Debug\karyawan161018.Resources.resources
+D:\DOCUMENT TUGAS\VB\karyawan\karyawan161018\obj\Debug\karyawan161018.vbproj.GenerateResource.Cache
+D:\DOCUMENT TUGAS\VB\karyawan\karyawan161018\obj\Debug\karyawan161018.exe
+D:\DOCUMENT TUGAS\VB\karyawan\karyawan161018\obj\Debug\karyawan161018.xml
+D:\DOCUMENT TUGAS\VB\karyawan\karyawan161018\obj\Debug\karyawan161018.pdb

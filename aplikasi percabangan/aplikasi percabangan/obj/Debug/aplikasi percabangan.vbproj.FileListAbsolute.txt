@@ -1,0 +1,11 @@
+D:\DOCUMENT TUGAS\VB\aplikasi percabangan\aplikasi percabangan\bin\Debug\aplikasi percabangan.exe.config
+D:\DOCUMENT TUGAS\VB\aplikasi percabangan\aplikasi percabangan\bin\Debug\aplikasi percabangan.exe
+D:\DOCUMENT TUGAS\VB\aplikasi percabangan\aplikasi percabangan\bin\Debug\aplikasi percabangan.pdb
+D:\DOCUMENT TUGAS\VB\aplikasi percabangan\aplikasi percabangan\bin\Debug\aplikasi percabangan.xml
+D:\DOCUMENT TUGAS\VB\aplikasi percabangan\aplikasi percabangan\obj\Debug\aplikasi percabangan.vbprojResolveAssemblyReference.cache
+D:\DOCUMENT TUGAS\VB\aplikasi percabangan\aplikasi percabangan\obj\Debug\aplikasi_percabangan.Form1.resources
+D:\DOCUMENT TUGAS\VB\aplikasi percabangan\aplikasi percabangan\obj\Debug\aplikasi_percabangan.Resources.resources
+D:\DOCUMENT TUGAS\VB\aplikasi percabangan\aplikasi percabangan\obj\Debug\aplikasi percabangan.vbproj.GenerateResource.Cache
+D:\DOCUMENT TUGAS\VB\aplikasi percabangan\aplikasi percabangan\obj\Debug\aplikasi percabangan.exe
+D:\DOCUMENT TUGAS\VB\aplikasi percabangan\aplikasi percabangan\obj\Debug\aplikasi percabangan.xml
+D:\DOCUMENT TUGAS\VB\aplikasi percabangan\aplikasi percabangan\obj\Debug\aplikasi percabangan.pdb

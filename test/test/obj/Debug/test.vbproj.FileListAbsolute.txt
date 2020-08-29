@@ -1,0 +1,17 @@
+D:\DOCUMENT TUGAS\VB\test\test\bin\Debug\test.exe.config
+D:\DOCUMENT TUGAS\VB\test\test\bin\Debug\db_siswa.mdb
+D:\DOCUMENT TUGAS\VB\test\test\bin\Debug\test.exe
+D:\DOCUMENT TUGAS\VB\test\test\bin\Debug\test.pdb
+D:\DOCUMENT TUGAS\VB\test\test\bin\Debug\test.xml
+D:\DOCUMENT TUGAS\VB\test\test\obj\Debug\test.vbprojResolveAssemblyReference.cache
+D:\DOCUMENT TUGAS\VB\test\test\obj\Debug\test.Form1.resources
+D:\DOCUMENT TUGAS\VB\test\test\obj\Debug\test.Form2.resources
+D:\DOCUMENT TUGAS\VB\test\test\obj\Debug\test.Form3.resources
+D:\DOCUMENT TUGAS\VB\test\test\obj\Debug\test.Resources.resources
+D:\DOCUMENT TUGAS\VB\test\test\obj\Debug\test.vbproj.GenerateResource.Cache
+D:\DOCUMENT TUGAS\VB\test\test\obj\Debug\test.exe
+D:\DOCUMENT TUGAS\VB\test\test\obj\Debug\test.xml
+D:\DOCUMENT TUGAS\VB\test\test\obj\Debug\test.pdb
+D:\DOCUMENT TUGAS\VB\test\test\obj\Debug\test.Form4.resources
+D:\DOCUMENT TUGAS\VB\test\test\bin\Debug\test.mdb
+D:\DOCUMENT TUGAS\VB\test\test\obj\Debug\test.Form5.resources

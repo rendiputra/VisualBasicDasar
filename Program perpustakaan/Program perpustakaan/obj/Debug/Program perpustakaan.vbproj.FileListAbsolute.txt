@@ -1,0 +1,11 @@
+D:\DOCUMENT TUGAS\VB\Program perpustakaan\Program perpustakaan\bin\Debug\Program perpustakaan.exe.config
+D:\DOCUMENT TUGAS\VB\Program perpustakaan\Program perpustakaan\bin\Debug\Program perpustakaan.exe
+D:\DOCUMENT TUGAS\VB\Program perpustakaan\Program perpustakaan\bin\Debug\Program perpustakaan.pdb
+D:\DOCUMENT TUGAS\VB\Program perpustakaan\Program perpustakaan\bin\Debug\Program perpustakaan.xml
+D:\DOCUMENT TUGAS\VB\Program perpustakaan\Program perpustakaan\obj\Debug\Program perpustakaan.vbprojResolveAssemblyReference.cache
+D:\DOCUMENT TUGAS\VB\Program perpustakaan\Program perpustakaan\obj\Debug\Program_perpustakaan.Form1.resources
+D:\DOCUMENT TUGAS\VB\Program perpustakaan\Program perpustakaan\obj\Debug\Program_perpustakaan.Resources.resources
+D:\DOCUMENT TUGAS\VB\Program perpustakaan\Program perpustakaan\obj\Debug\Program perpustakaan.vbproj.GenerateResource.Cache
+D:\DOCUMENT TUGAS\VB\Program perpustakaan\Program perpustakaan\obj\Debug\Program perpustakaan.exe
+D:\DOCUMENT TUGAS\VB\Program perpustakaan\Program perpustakaan\obj\Debug\Program perpustakaan.xml
+D:\DOCUMENT TUGAS\VB\Program perpustakaan\Program perpustakaan\obj\Debug\Program perpustakaan.pdb

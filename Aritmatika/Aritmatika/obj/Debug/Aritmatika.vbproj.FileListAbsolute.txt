@@ -1,0 +1,11 @@
+D:\DOCUMENT TUGAS\VB\Aritmatika\Aritmatika\bin\Debug\Aritmatika.exe.config
+D:\DOCUMENT TUGAS\VB\Aritmatika\Aritmatika\bin\Debug\Aritmatika.exe
+D:\DOCUMENT TUGAS\VB\Aritmatika\Aritmatika\bin\Debug\Aritmatika.pdb
+D:\DOCUMENT TUGAS\VB\Aritmatika\Aritmatika\bin\Debug\Aritmatika.xml
+D:\DOCUMENT TUGAS\VB\Aritmatika\Aritmatika\obj\Debug\Aritmatika.vbprojResolveAssemblyReference.cache
+D:\DOCUMENT TUGAS\VB\Aritmatika\Aritmatika\obj\Debug\Aritmatika.Form1.resources
+D:\DOCUMENT TUGAS\VB\Aritmatika\Aritmatika\obj\Debug\Aritmatika.Resources.resources
+D:\DOCUMENT TUGAS\VB\Aritmatika\Aritmatika\obj\Debug\Aritmatika.vbproj.GenerateResource.Cache
+D:\DOCUMENT TUGAS\VB\Aritmatika\Aritmatika\obj\Debug\Aritmatika.exe
+D:\DOCUMENT TUGAS\VB\Aritmatika\Aritmatika\obj\Debug\Aritmatika.xml
+D:\DOCUMENT TUGAS\VB\Aritmatika\Aritmatika\obj\Debug\Aritmatika.pdb

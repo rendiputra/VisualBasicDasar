@@ -1,0 +1,12 @@
+D:\DOCUMENT TUGAS\VB\aplikasimtk\aplikasimtk\bin\Debug\aplikasimtk.exe.config
+D:\DOCUMENT TUGAS\VB\aplikasimtk\aplikasimtk\bin\Debug\aplikasimtk.exe
+D:\DOCUMENT TUGAS\VB\aplikasimtk\aplikasimtk\bin\Debug\aplikasimtk.pdb
+D:\DOCUMENT TUGAS\VB\aplikasimtk\aplikasimtk\bin\Debug\aplikasimtk.xml
+D:\DOCUMENT TUGAS\VB\aplikasimtk\aplikasimtk\obj\Debug\aplikasimtk.vbprojResolveAssemblyReference.cache
+D:\DOCUMENT TUGAS\VB\aplikasimtk\aplikasimtk\obj\Debug\aplikasimtk.Form1.resources
+D:\DOCUMENT TUGAS\VB\aplikasimtk\aplikasimtk\obj\Debug\aplikasimtk.Resources.resources
+D:\DOCUMENT TUGAS\VB\aplikasimtk\aplikasimtk\obj\Debug\aplikasimtk.vbproj.GenerateResource.Cache
+D:\DOCUMENT TUGAS\VB\aplikasimtk\aplikasimtk\obj\Debug\aplikasimtk.exe
+D:\DOCUMENT TUGAS\VB\aplikasimtk\aplikasimtk\obj\Debug\aplikasimtk.xml
+D:\DOCUMENT TUGAS\VB\aplikasimtk\aplikasimtk\obj\Debug\aplikasimtk.pdb
+D:\DOCUMENT TUGAS\VB\aplikasimtk\aplikasimtk\obj\Debug\aplikasimtk.segitiga.resources

@@ -1,0 +1,11 @@
+D:\DOCUMENT TUGAS\VB\aplikasi input data\aplikasi input data\bin\Debug\aplikasi input data.exe.config
+D:\DOCUMENT TUGAS\VB\aplikasi input data\aplikasi input data\bin\Debug\aplikasi input data.exe
+D:\DOCUMENT TUGAS\VB\aplikasi input data\aplikasi input data\bin\Debug\aplikasi input data.pdb
+D:\DOCUMENT TUGAS\VB\aplikasi input data\aplikasi input data\bin\Debug\aplikasi input data.xml
+D:\DOCUMENT TUGAS\VB\aplikasi input data\aplikasi input data\obj\Debug\aplikasi input data.vbprojResolveAssemblyReference.cache
+D:\DOCUMENT TUGAS\VB\aplikasi input data\aplikasi input data\obj\Debug\aplikasi_input_data.Form1.resources
+D:\DOCUMENT TUGAS\VB\aplikasi input data\aplikasi input data\obj\Debug\aplikasi_input_data.Resources.resources
+D:\DOCUMENT TUGAS\VB\aplikasi input data\aplikasi input data\obj\Debug\aplikasi input data.vbproj.GenerateResource.Cache
+D:\DOCUMENT TUGAS\VB\aplikasi input data\aplikasi input data\obj\Debug\aplikasi input data.exe
+D:\DOCUMENT TUGAS\VB\aplikasi input data\aplikasi input data\obj\Debug\aplikasi input data.xml
+D:\DOCUMENT TUGAS\VB\aplikasi input data\aplikasi input data\obj\Debug\aplikasi input data.pdb

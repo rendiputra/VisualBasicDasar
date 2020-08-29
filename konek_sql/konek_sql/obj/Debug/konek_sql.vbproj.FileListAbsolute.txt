@@ -1,0 +1,11 @@
+D:\DOCUMENT TUGAS\VB\konek_sql\konek_sql\bin\Debug\konek_sql.exe.config
+D:\DOCUMENT TUGAS\VB\konek_sql\konek_sql\bin\Debug\konek_sql.exe
+D:\DOCUMENT TUGAS\VB\konek_sql\konek_sql\bin\Debug\konek_sql.pdb
+D:\DOCUMENT TUGAS\VB\konek_sql\konek_sql\bin\Debug\konek_sql.xml
+D:\DOCUMENT TUGAS\VB\konek_sql\konek_sql\obj\Debug\konek_sql.vbprojResolveAssemblyReference.cache
+D:\DOCUMENT TUGAS\VB\konek_sql\konek_sql\obj\Debug\konek_sql.Form1.resources
+D:\DOCUMENT TUGAS\VB\konek_sql\konek_sql\obj\Debug\konek_sql.Resources.resources
+D:\DOCUMENT TUGAS\VB\konek_sql\konek_sql\obj\Debug\konek_sql.vbproj.GenerateResource.Cache
+D:\DOCUMENT TUGAS\VB\konek_sql\konek_sql\obj\Debug\konek_sql.exe
+D:\DOCUMENT TUGAS\VB\konek_sql\konek_sql\obj\Debug\konek_sql.xml
+D:\DOCUMENT TUGAS\VB\konek_sql\konek_sql\obj\Debug\konek_sql.pdb

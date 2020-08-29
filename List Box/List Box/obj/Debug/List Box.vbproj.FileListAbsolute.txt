@@ -1,0 +1,11 @@
+D:\DOCUMENT TUGAS\VB\List Box\List Box\bin\Debug\List Box.exe.config
+D:\DOCUMENT TUGAS\VB\List Box\List Box\bin\Debug\List Box.exe
+D:\DOCUMENT TUGAS\VB\List Box\List Box\bin\Debug\List Box.pdb
+D:\DOCUMENT TUGAS\VB\List Box\List Box\bin\Debug\List Box.xml
+D:\DOCUMENT TUGAS\VB\List Box\List Box\obj\Debug\List Box.vbprojResolveAssemblyReference.cache
+D:\DOCUMENT TUGAS\VB\List Box\List Box\obj\Debug\List_Box.Form1.resources
+D:\DOCUMENT TUGAS\VB\List Box\List Box\obj\Debug\List_Box.Resources.resources
+D:\DOCUMENT TUGAS\VB\List Box\List Box\obj\Debug\List Box.vbproj.GenerateResource.Cache
+D:\DOCUMENT TUGAS\VB\List Box\List Box\obj\Debug\List Box.exe
+D:\DOCUMENT TUGAS\VB\List Box\List Box\obj\Debug\List Box.xml
+D:\DOCUMENT TUGAS\VB\List Box\List Box\obj\Debug\List Box.pdb

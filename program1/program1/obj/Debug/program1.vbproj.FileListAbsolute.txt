@@ -1,0 +1,11 @@
+D:\DOCUMENT TUGAS\VB\program1\program1\bin\Debug\program1.exe.config
+D:\DOCUMENT TUGAS\VB\program1\program1\bin\Debug\program1.exe
+D:\DOCUMENT TUGAS\VB\program1\program1\bin\Debug\program1.pdb
+D:\DOCUMENT TUGAS\VB\program1\program1\bin\Debug\program1.xml
+D:\DOCUMENT TUGAS\VB\program1\program1\obj\Debug\program1.vbprojResolveAssemblyReference.cache
+D:\DOCUMENT TUGAS\VB\program1\program1\obj\Debug\program1.Form1.resources
+D:\DOCUMENT TUGAS\VB\program1\program1\obj\Debug\program1.Resources.resources
+D:\DOCUMENT TUGAS\VB\program1\program1\obj\Debug\program1.vbproj.GenerateResource.Cache
+D:\DOCUMENT TUGAS\VB\program1\program1\obj\Debug\program1.exe
+D:\DOCUMENT TUGAS\VB\program1\program1\obj\Debug\program1.xml
+D:\DOCUMENT TUGAS\VB\program1\program1\obj\Debug\program1.pdb

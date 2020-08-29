@@ -1,0 +1,24 @@
+c:\users\asus\documents\visual studio 2015\Projects\Aplikasi Database\Aplikasi Database\bin\Debug\Aplikasi Database.exe.config
+C:\Users\ASUS\documents\visual studio 2015\Projects\Aplikasi Database\Aplikasi Database\bin\Debug\latihan.mdb
+C:\Users\ASUS\documents\visual studio 2015\Projects\Aplikasi Database\Aplikasi Database\bin\Debug\Aplikasi Database.exe
+C:\Users\ASUS\documents\visual studio 2015\Projects\Aplikasi Database\Aplikasi Database\bin\Debug\Aplikasi Database.pdb
+C:\Users\ASUS\documents\visual studio 2015\Projects\Aplikasi Database\Aplikasi Database\bin\Debug\Aplikasi Database.xml
+C:\Users\ASUS\documents\visual studio 2015\Projects\Aplikasi Database\Aplikasi Database\obj\Debug\Aplikasi Database.vbprojResolveAssemblyReference.cache
+C:\Users\ASUS\documents\visual studio 2015\Projects\Aplikasi Database\Aplikasi Database\obj\Debug\Aplikasi_Database.Form1.resources
+C:\Users\ASUS\documents\visual studio 2015\Projects\Aplikasi Database\Aplikasi Database\obj\Debug\Aplikasi_Database.Resources.resources
+C:\Users\ASUS\documents\visual studio 2015\Projects\Aplikasi Database\Aplikasi Database\obj\Debug\Aplikasi Database.vbproj.GenerateResource.Cache
+C:\Users\ASUS\documents\visual studio 2015\Projects\Aplikasi Database\Aplikasi Database\obj\Debug\Aplikasi Database.exe
+C:\Users\ASUS\documents\visual studio 2015\Projects\Aplikasi Database\Aplikasi Database\obj\Debug\Aplikasi Database.xml
+C:\Users\ASUS\documents\visual studio 2015\Projects\Aplikasi Database\Aplikasi Database\obj\Debug\Aplikasi Database.pdb
+D:\DOCUMENT TUGAS\VB\Aplikasi DB\Aplikasi Database\bin\Debug\Aplikasi Database.exe.config
+D:\DOCUMENT TUGAS\VB\Aplikasi DB\Aplikasi Database\obj\Debug\Aplikasi Database.exe
+D:\DOCUMENT TUGAS\VB\Aplikasi DB\Aplikasi Database\obj\Debug\Aplikasi Database.xml
+D:\DOCUMENT TUGAS\VB\Aplikasi DB\Aplikasi Database\obj\Debug\Aplikasi Database.pdb
+D:\DOCUMENT TUGAS\VB\Aplikasi DB\Aplikasi Database\bin\Debug\latihan.mdb
+D:\DOCUMENT TUGAS\VB\Aplikasi DB\Aplikasi Database\bin\Debug\Aplikasi Database.exe
+D:\DOCUMENT TUGAS\VB\Aplikasi DB\Aplikasi Database\bin\Debug\Aplikasi Database.pdb
+D:\DOCUMENT TUGAS\VB\Aplikasi DB\Aplikasi Database\bin\Debug\Aplikasi Database.xml
+D:\DOCUMENT TUGAS\VB\Aplikasi DB\Aplikasi Database\obj\Debug\Aplikasi Database.vbprojResolveAssemblyReference.cache
+D:\DOCUMENT TUGAS\VB\Aplikasi DB\Aplikasi Database\obj\Debug\Aplikasi_Database.Form1.resources
+D:\DOCUMENT TUGAS\VB\Aplikasi DB\Aplikasi Database\obj\Debug\Aplikasi_Database.Resources.resources
+D:\DOCUMENT TUGAS\VB\Aplikasi DB\Aplikasi Database\obj\Debug\Aplikasi Database.vbproj.GenerateResource.Cache

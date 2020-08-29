@@ -1,0 +1,12 @@
+D:\DOCUMENT TUGAS\VB\Splash Screen2\Splash Screen2\bin\Debug\Splash Screen2.exe.config
+D:\DOCUMENT TUGAS\VB\Splash Screen2\Splash Screen2\obj\Debug\Splash_Screen2.Form1.resources
+D:\DOCUMENT TUGAS\VB\Splash Screen2\Splash Screen2\obj\Debug\Splash_Screen2.Form2.resources
+D:\DOCUMENT TUGAS\VB\Splash Screen2\Splash Screen2\obj\Debug\Splash_Screen2.Resources.resources
+D:\DOCUMENT TUGAS\VB\Splash Screen2\Splash Screen2\obj\Debug\Splash Screen2.vbproj.GenerateResource.Cache
+D:\DOCUMENT TUGAS\VB\Splash Screen2\Splash Screen2\obj\Debug\Splash Screen2.xml
+D:\DOCUMENT TUGAS\VB\Splash Screen2\Splash Screen2\bin\Debug\Splash Screen2.exe
+D:\DOCUMENT TUGAS\VB\Splash Screen2\Splash Screen2\bin\Debug\Splash Screen2.pdb
+D:\DOCUMENT TUGAS\VB\Splash Screen2\Splash Screen2\bin\Debug\Splash Screen2.xml
+D:\DOCUMENT TUGAS\VB\Splash Screen2\Splash Screen2\obj\Debug\Splash_Screen2.Form3.resources
+D:\DOCUMENT TUGAS\VB\Splash Screen2\Splash Screen2\obj\Debug\Splash Screen2.exe
+D:\DOCUMENT TUGAS\VB\Splash Screen2\Splash Screen2\obj\Debug\Splash Screen2.pdb

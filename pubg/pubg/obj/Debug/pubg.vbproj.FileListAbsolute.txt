@@ -1,0 +1,11 @@
+D:\DOCUMENT TUGAS\VB\pubg\pubg\bin\Debug\pubg.exe.config
+D:\DOCUMENT TUGAS\VB\pubg\pubg\bin\Debug\pubg.exe
+D:\DOCUMENT TUGAS\VB\pubg\pubg\bin\Debug\pubg.pdb
+D:\DOCUMENT TUGAS\VB\pubg\pubg\bin\Debug\pubg.xml
+D:\DOCUMENT TUGAS\VB\pubg\pubg\obj\Debug\pubg.vbprojResolveAssemblyReference.cache
+D:\DOCUMENT TUGAS\VB\pubg\pubg\obj\Debug\pubg.Form1.resources
+D:\DOCUMENT TUGAS\VB\pubg\pubg\obj\Debug\pubg.Resources.resources
+D:\DOCUMENT TUGAS\VB\pubg\pubg\obj\Debug\pubg.vbproj.GenerateResource.Cache
+D:\DOCUMENT TUGAS\VB\pubg\pubg\obj\Debug\pubg.exe
+D:\DOCUMENT TUGAS\VB\pubg\pubg\obj\Debug\pubg.xml
+D:\DOCUMENT TUGAS\VB\pubg\pubg\obj\Debug\pubg.pdb

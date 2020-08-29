@@ -1,0 +1,11 @@
+D:\DOCUMENT TUGAS\VB\aplikasi font style\aplikasi font style\bin\Debug\aplikasi font style.exe.config
+D:\DOCUMENT TUGAS\VB\aplikasi font style\aplikasi font style\bin\Debug\aplikasi font style.exe
+D:\DOCUMENT TUGAS\VB\aplikasi font style\aplikasi font style\bin\Debug\aplikasi font style.pdb
+D:\DOCUMENT TUGAS\VB\aplikasi font style\aplikasi font style\bin\Debug\aplikasi font style.xml
+D:\DOCUMENT TUGAS\VB\aplikasi font style\aplikasi font style\obj\Debug\aplikasi font style.vbprojResolveAssemblyReference.cache
+D:\DOCUMENT TUGAS\VB\aplikasi font style\aplikasi font style\obj\Debug\aplikasi_font_style.Form1.resources
+D:\DOCUMENT TUGAS\VB\aplikasi font style\aplikasi font style\obj\Debug\aplikasi_font_style.Resources.resources
+D:\DOCUMENT TUGAS\VB\aplikasi font style\aplikasi font style\obj\Debug\aplikasi font style.vbproj.GenerateResource.Cache
+D:\DOCUMENT TUGAS\VB\aplikasi font style\aplikasi font style\obj\Debug\aplikasi font style.exe
+D:\DOCUMENT TUGAS\VB\aplikasi font style\aplikasi font style\obj\Debug\aplikasi font style.xml
+D:\DOCUMENT TUGAS\VB\aplikasi font style\aplikasi font style\obj\Debug\aplikasi font style.pdb

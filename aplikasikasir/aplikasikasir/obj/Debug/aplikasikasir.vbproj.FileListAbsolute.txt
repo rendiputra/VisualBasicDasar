@@ -1,0 +1,11 @@
+D:\DOCUMENT TUGAS\VB\aplikasikasir\aplikasikasir\bin\Debug\aplikasikasir.exe.config
+D:\DOCUMENT TUGAS\VB\aplikasikasir\aplikasikasir\bin\Debug\aplikasikasir.exe
+D:\DOCUMENT TUGAS\VB\aplikasikasir\aplikasikasir\bin\Debug\aplikasikasir.pdb
+D:\DOCUMENT TUGAS\VB\aplikasikasir\aplikasikasir\bin\Debug\aplikasikasir.xml
+D:\DOCUMENT TUGAS\VB\aplikasikasir\aplikasikasir\obj\Debug\aplikasikasir.vbprojResolveAssemblyReference.cache
+D:\DOCUMENT TUGAS\VB\aplikasikasir\aplikasikasir\obj\Debug\aplikasikasir.Form1.resources
+D:\DOCUMENT TUGAS\VB\aplikasikasir\aplikasikasir\obj\Debug\aplikasikasir.Resources.resources
+D:\DOCUMENT TUGAS\VB\aplikasikasir\aplikasikasir\obj\Debug\aplikasikasir.vbproj.GenerateResource.Cache
+D:\DOCUMENT TUGAS\VB\aplikasikasir\aplikasikasir\obj\Debug\aplikasikasir.exe
+D:\DOCUMENT TUGAS\VB\aplikasikasir\aplikasikasir\obj\Debug\aplikasikasir.xml
+D:\DOCUMENT TUGAS\VB\aplikasikasir\aplikasikasir\obj\Debug\aplikasikasir.pdb

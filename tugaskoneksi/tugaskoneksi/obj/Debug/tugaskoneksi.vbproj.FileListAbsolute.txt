@@ -1,0 +1,11 @@
+D:\DOCUMENT TUGAS\VB\tugaskoneksi\tugaskoneksi\bin\Debug\tugaskoneksi.exe.config
+D:\DOCUMENT TUGAS\VB\tugaskoneksi\tugaskoneksi\obj\Debug\tugaskoneksi.vbprojResolveAssemblyReference.cache
+D:\DOCUMENT TUGAS\VB\tugaskoneksi\tugaskoneksi\obj\Debug\tugaskoneksi.Form1.resources
+D:\DOCUMENT TUGAS\VB\tugaskoneksi\tugaskoneksi\obj\Debug\tugaskoneksi.Resources.resources
+D:\DOCUMENT TUGAS\VB\tugaskoneksi\tugaskoneksi\obj\Debug\tugaskoneksi.vbproj.GenerateResource.Cache
+D:\DOCUMENT TUGAS\VB\tugaskoneksi\tugaskoneksi\obj\Debug\tugaskoneksi.xml
+D:\DOCUMENT TUGAS\VB\tugaskoneksi\tugaskoneksi\bin\Debug\tugaskoneksi.exe
+D:\DOCUMENT TUGAS\VB\tugaskoneksi\tugaskoneksi\bin\Debug\tugaskoneksi.pdb
+D:\DOCUMENT TUGAS\VB\tugaskoneksi\tugaskoneksi\bin\Debug\tugaskoneksi.xml
+D:\DOCUMENT TUGAS\VB\tugaskoneksi\tugaskoneksi\obj\Debug\tugaskoneksi.exe
+D:\DOCUMENT TUGAS\VB\tugaskoneksi\tugaskoneksi\obj\Debug\tugaskoneksi.pdb

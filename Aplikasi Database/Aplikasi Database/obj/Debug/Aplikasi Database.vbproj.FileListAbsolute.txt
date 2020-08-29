@@ -1,0 +1,23 @@
+D:\Dokumen\VB\Aplikasi Database\Aplikasi Database\bin\Debug\Aplikasi Database.exe.config
+D:\Dokumen\VB\Aplikasi Database\Aplikasi Database\bin\Debug\Latihan1.accdb
+D:\Dokumen\VB\Aplikasi Database\Aplikasi Database\bin\Debug\Aplikasi Database.exe
+D:\Dokumen\VB\Aplikasi Database\Aplikasi Database\bin\Debug\Aplikasi Database.pdb
+D:\Dokumen\VB\Aplikasi Database\Aplikasi Database\bin\Debug\Aplikasi Database.xml
+D:\Dokumen\VB\Aplikasi Database\Aplikasi Database\obj\Debug\Aplikasi_Database.Form1.resources
+D:\Dokumen\VB\Aplikasi Database\Aplikasi Database\obj\Debug\Aplikasi_Database.Resources.resources
+D:\Dokumen\VB\Aplikasi Database\Aplikasi Database\obj\Debug\Aplikasi Database.vbproj.GenerateResource.Cache
+D:\Dokumen\VB\Aplikasi Database\Aplikasi Database\obj\Debug\Aplikasi Database.exe
+D:\Dokumen\VB\Aplikasi Database\Aplikasi Database\obj\Debug\Aplikasi Database.xml
+D:\Dokumen\VB\Aplikasi Database\Aplikasi Database\obj\Debug\Aplikasi Database.pdb
+D:\DOCUMENT TUGAS\VB\Aplikasi Database\Aplikasi Database\bin\Debug\Aplikasi Database.exe.config
+D:\DOCUMENT TUGAS\VB\Aplikasi Database\Aplikasi Database\obj\Debug\Aplikasi Database.exe
+D:\DOCUMENT TUGAS\VB\Aplikasi Database\Aplikasi Database\obj\Debug\Aplikasi Database.xml
+D:\DOCUMENT TUGAS\VB\Aplikasi Database\Aplikasi Database\obj\Debug\Aplikasi Database.pdb
+D:\DOCUMENT TUGAS\VB\Aplikasi Database\Aplikasi Database\bin\Debug\Latihan1.accdb
+D:\DOCUMENT TUGAS\VB\Aplikasi Database\Aplikasi Database\bin\Debug\Aplikasi Database.exe
+D:\DOCUMENT TUGAS\VB\Aplikasi Database\Aplikasi Database\bin\Debug\Aplikasi Database.pdb
+D:\DOCUMENT TUGAS\VB\Aplikasi Database\Aplikasi Database\bin\Debug\Aplikasi Database.xml
+D:\DOCUMENT TUGAS\VB\Aplikasi Database\Aplikasi Database\obj\Debug\Aplikasi Database.vbprojResolveAssemblyReference.cache
+D:\DOCUMENT TUGAS\VB\Aplikasi Database\Aplikasi Database\obj\Debug\Aplikasi_Database.Form1.resources
+D:\DOCUMENT TUGAS\VB\Aplikasi Database\Aplikasi Database\obj\Debug\Aplikasi_Database.Resources.resources
+D:\DOCUMENT TUGAS\VB\Aplikasi Database\Aplikasi Database\obj\Debug\Aplikasi Database.vbproj.GenerateResource.Cache

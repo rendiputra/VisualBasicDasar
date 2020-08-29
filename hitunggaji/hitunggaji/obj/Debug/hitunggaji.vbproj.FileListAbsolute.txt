@@ -1,0 +1,13 @@
+D:\DOCUMENT TUGAS\VB\hitunggaji\hitunggaji\bin\Debug\hitunggaji.exe.config
+D:\DOCUMENT TUGAS\VB\hitunggaji\hitunggaji\bin\Debug\hitunggaji.exe
+D:\DOCUMENT TUGAS\VB\hitunggaji\hitunggaji\bin\Debug\hitunggaji.pdb
+D:\DOCUMENT TUGAS\VB\hitunggaji\hitunggaji\bin\Debug\hitunggaji.xml
+D:\DOCUMENT TUGAS\VB\hitunggaji\hitunggaji\obj\Debug\hitunggaji.vbprojResolveAssemblyReference.cache
+D:\DOCUMENT TUGAS\VB\hitunggaji\hitunggaji\obj\Debug\hitunggaji.Resources.resources
+D:\DOCUMENT TUGAS\VB\hitunggaji\hitunggaji\obj\Debug\hitunggaji.vbproj.GenerateResource.Cache
+D:\DOCUMENT TUGAS\VB\hitunggaji\hitunggaji\obj\Debug\hitunggaji.exe
+D:\DOCUMENT TUGAS\VB\hitunggaji\hitunggaji\obj\Debug\hitunggaji.xml
+D:\DOCUMENT TUGAS\VB\hitunggaji\hitunggaji\obj\Debug\hitunggaji.pdb
+D:\DOCUMENT TUGAS\VB\hitunggaji\hitunggaji\obj\Debug\hitunggaji.login.resources
+D:\DOCUMENT TUGAS\VB\hitunggaji\hitunggaji\obj\Debug\hitunggaji.Form1.resources
+D:\DOCUMENT TUGAS\VB\hitunggaji\hitunggaji\obj\Debug\hitunggaji.tambahkaryawan.resources

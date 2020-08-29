@@ -1,0 +1,10 @@
+D:\Dokumen\VB\Login Access\Login Access\bin\Debug\Login Access.exe.config
+D:\Dokumen\VB\Login Access\Login Access\obj\Debug\Login_Access.Form1.resources
+D:\Dokumen\VB\Login Access\Login Access\obj\Debug\Login_Access.Resources.resources
+D:\Dokumen\VB\Login Access\Login Access\obj\Debug\Login Access.vbproj.GenerateResource.Cache
+D:\DOCUMENT TUGAS\VB\Login Access\Login Access\bin\Debug\Login Access.exe.config
+D:\DOCUMENT TUGAS\VB\Login Access\Login Access\obj\Debug\Login Access.vbprojResolveAssemblyReference.cache
+D:\DOCUMENT TUGAS\VB\Login Access\Login Access\obj\Debug\Login_Access.Form1.resources
+D:\DOCUMENT TUGAS\VB\Login Access\Login Access\obj\Debug\Login_Access.Resources.resources
+D:\DOCUMENT TUGAS\VB\Login Access\Login Access\obj\Debug\Login Access.vbproj.GenerateResource.Cache
+D:\DOCUMENT TUGAS\VB\Login Access\Login Access\obj\Debug\Login Access.xml

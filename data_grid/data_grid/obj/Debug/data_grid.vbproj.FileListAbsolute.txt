@@ -1,0 +1,11 @@
+D:\DOCUMENT TUGAS\VB\data_grid\data_grid\bin\Debug\data_grid.exe.config
+D:\DOCUMENT TUGAS\VB\data_grid\data_grid\obj\Debug\data_grid.vbprojResolveAssemblyReference.cache
+D:\DOCUMENT TUGAS\VB\data_grid\data_grid\obj\Debug\data_grid.Form1.resources
+D:\DOCUMENT TUGAS\VB\data_grid\data_grid\obj\Debug\data_grid.Resources.resources
+D:\DOCUMENT TUGAS\VB\data_grid\data_grid\obj\Debug\data_grid.vbproj.GenerateResource.Cache
+D:\DOCUMENT TUGAS\VB\data_grid\data_grid\bin\Debug\data_grid.exe
+D:\DOCUMENT TUGAS\VB\data_grid\data_grid\bin\Debug\data_grid.pdb
+D:\DOCUMENT TUGAS\VB\data_grid\data_grid\bin\Debug\data_grid.xml
+D:\DOCUMENT TUGAS\VB\data_grid\data_grid\obj\Debug\data_grid.exe
+D:\DOCUMENT TUGAS\VB\data_grid\data_grid\obj\Debug\data_grid.xml
+D:\DOCUMENT TUGAS\VB\data_grid\data_grid\obj\Debug\data_grid.pdb

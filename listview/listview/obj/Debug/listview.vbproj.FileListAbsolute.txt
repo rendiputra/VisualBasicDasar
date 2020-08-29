@@ -1,0 +1,11 @@
+D:\DOCUMENT TUGAS\VB\listview\listview\bin\Debug\listview.exe.config
+D:\DOCUMENT TUGAS\VB\listview\listview\bin\Debug\listview.exe
+D:\DOCUMENT TUGAS\VB\listview\listview\bin\Debug\listview.pdb
+D:\DOCUMENT TUGAS\VB\listview\listview\bin\Debug\listview.xml
+D:\DOCUMENT TUGAS\VB\listview\listview\obj\Debug\listview.vbprojResolveAssemblyReference.cache
+D:\DOCUMENT TUGAS\VB\listview\listview\obj\Debug\listview.Form1.resources
+D:\DOCUMENT TUGAS\VB\listview\listview\obj\Debug\listview.Resources.resources
+D:\DOCUMENT TUGAS\VB\listview\listview\obj\Debug\listview.vbproj.GenerateResource.Cache
+D:\DOCUMENT TUGAS\VB\listview\listview\obj\Debug\listview.exe
+D:\DOCUMENT TUGAS\VB\listview\listview\obj\Debug\listview.xml
+D:\DOCUMENT TUGAS\VB\listview\listview\obj\Debug\listview.pdb

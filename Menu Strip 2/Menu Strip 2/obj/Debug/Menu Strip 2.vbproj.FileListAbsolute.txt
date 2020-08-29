@@ -1,0 +1,14 @@
+D:\DOCUMENT TUGAS\VB\Menu Strip 2\Menu Strip 2\bin\Debug\Menu Strip 2.exe.config
+D:\DOCUMENT TUGAS\VB\Menu Strip 2\Menu Strip 2\bin\Debug\Menu Strip 2.exe
+D:\DOCUMENT TUGAS\VB\Menu Strip 2\Menu Strip 2\bin\Debug\Menu Strip 2.pdb
+D:\DOCUMENT TUGAS\VB\Menu Strip 2\Menu Strip 2\bin\Debug\Menu Strip 2.xml
+D:\DOCUMENT TUGAS\VB\Menu Strip 2\Menu Strip 2\obj\Debug\Menu_Strip_2.Form1.resources
+D:\DOCUMENT TUGAS\VB\Menu Strip 2\Menu Strip 2\obj\Debug\Menu_Strip_2.Resources.resources
+D:\DOCUMENT TUGAS\VB\Menu Strip 2\Menu Strip 2\obj\Debug\Menu_Strip_2.panjang.resources
+D:\DOCUMENT TUGAS\VB\Menu Strip 2\Menu Strip 2\obj\Debug\Menu_Strip_2.persegi.resources
+D:\DOCUMENT TUGAS\VB\Menu Strip 2\Menu Strip 2\obj\Debug\Menu Strip 2.vbproj.GenerateResource.Cache
+D:\DOCUMENT TUGAS\VB\Menu Strip 2\Menu Strip 2\obj\Debug\Menu Strip 2.exe
+D:\DOCUMENT TUGAS\VB\Menu Strip 2\Menu Strip 2\obj\Debug\Menu Strip 2.xml
+D:\DOCUMENT TUGAS\VB\Menu Strip 2\Menu Strip 2\obj\Debug\Menu Strip 2.pdb
+D:\DOCUMENT TUGAS\VB\Menu Strip 2\Menu Strip 2\obj\Debug\Menu_Strip_2.balok.resources
+D:\DOCUMENT TUGAS\VB\Menu Strip 2\Menu Strip 2\obj\Debug\Menu_Strip_2.kubus.resources

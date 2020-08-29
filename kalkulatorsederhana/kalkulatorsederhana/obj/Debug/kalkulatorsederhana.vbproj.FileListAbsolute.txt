@@ -1,0 +1,11 @@
+D:\DOCUMENT TUGAS\VB\kalkulatorsederhana\kalkulatorsederhana\bin\Debug\kalkulatorsederhana.exe.config
+D:\DOCUMENT TUGAS\VB\kalkulatorsederhana\kalkulatorsederhana\bin\Debug\kalkulatorsederhana.exe
+D:\DOCUMENT TUGAS\VB\kalkulatorsederhana\kalkulatorsederhana\bin\Debug\kalkulatorsederhana.pdb
+D:\DOCUMENT TUGAS\VB\kalkulatorsederhana\kalkulatorsederhana\bin\Debug\kalkulatorsederhana.xml
+D:\DOCUMENT TUGAS\VB\kalkulatorsederhana\kalkulatorsederhana\obj\Debug\kalkulatorsederhana.vbprojResolveAssemblyReference.cache
+D:\DOCUMENT TUGAS\VB\kalkulatorsederhana\kalkulatorsederhana\obj\Debug\kalkulatorsederhana.Form1.resources
+D:\DOCUMENT TUGAS\VB\kalkulatorsederhana\kalkulatorsederhana\obj\Debug\kalkulatorsederhana.Resources.resources
+D:\DOCUMENT TUGAS\VB\kalkulatorsederhana\kalkulatorsederhana\obj\Debug\kalkulatorsederhana.vbproj.GenerateResource.Cache
+D:\DOCUMENT TUGAS\VB\kalkulatorsederhana\kalkulatorsederhana\obj\Debug\kalkulatorsederhana.exe
+D:\DOCUMENT TUGAS\VB\kalkulatorsederhana\kalkulatorsederhana\obj\Debug\kalkulatorsederhana.xml
+D:\DOCUMENT TUGAS\VB\kalkulatorsederhana\kalkulatorsederhana\obj\Debug\kalkulatorsederhana.pdb

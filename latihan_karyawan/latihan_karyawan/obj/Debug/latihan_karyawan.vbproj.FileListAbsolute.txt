@@ -1,0 +1,11 @@
+D:\DOCUMENT TUGAS\VB\latihan_karyawan\latihan_karyawan\bin\Debug\latihan_karyawan.exe.config
+D:\DOCUMENT TUGAS\VB\latihan_karyawan\latihan_karyawan\obj\Debug\latihan_karyawan.Form1.resources
+D:\DOCUMENT TUGAS\VB\latihan_karyawan\latihan_karyawan\obj\Debug\latihan_karyawan.Resources.resources
+D:\DOCUMENT TUGAS\VB\latihan_karyawan\latihan_karyawan\obj\Debug\latihan_karyawan.vbproj.GenerateResource.Cache
+D:\DOCUMENT TUGAS\VB\latihan_karyawan\latihan_karyawan\obj\Debug\latihan_karyawan.xml
+D:\DOCUMENT TUGAS\VB\latihan_karyawan\latihan_karyawan\bin\Debug\latihan_karyawan.exe
+D:\DOCUMENT TUGAS\VB\latihan_karyawan\latihan_karyawan\bin\Debug\latihan_karyawan.pdb
+D:\DOCUMENT TUGAS\VB\latihan_karyawan\latihan_karyawan\bin\Debug\latihan_karyawan.xml
+D:\DOCUMENT TUGAS\VB\latihan_karyawan\latihan_karyawan\obj\Debug\latihan_karyawan.exe
+D:\DOCUMENT TUGAS\VB\latihan_karyawan\latihan_karyawan\obj\Debug\latihan_karyawan.pdb
+D:\DOCUMENT TUGAS\VB\latihan_karyawan\latihan_karyawan\obj\Debug\latihan_karyawan.vbprojResolveAssemblyReference.cache

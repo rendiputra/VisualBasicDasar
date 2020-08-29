@@ -1,0 +1,15 @@
+C:\Users\user\AppData\Local\Temporary Projects\APPLIKASI SISIWA\bin\Debug\APPLIKASI SISIWA.exe.config
+C:\Users\user\AppData\Local\Temporary Projects\APPLIKASI SISIWA\bin\Debug\siswa.mdb
+C:\Users\user\AppData\Local\Temporary Projects\APPLIKASI SISIWA\bin\Debug\APPLIKASI SISIWA.exe
+C:\Users\user\AppData\Local\Temporary Projects\APPLIKASI SISIWA\bin\Debug\APPLIKASI SISIWA.pdb
+C:\Users\user\AppData\Local\Temporary Projects\APPLIKASI SISIWA\bin\Debug\APPLIKASI SISIWA.xml
+C:\Users\user\AppData\Local\Temporary Projects\APPLIKASI SISIWA\obj\Debug\APPLIKASI_SISIWA.Form1.resources
+C:\Users\user\AppData\Local\Temporary Projects\APPLIKASI SISIWA\obj\Debug\APPLIKASI_SISIWA.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\APPLIKASI SISIWA\obj\Debug\APPLIKASI SISIWA.vbproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\APPLIKASI SISIWA\obj\Debug\APPLIKASI SISIWA.exe
+C:\Users\user\AppData\Local\Temporary Projects\APPLIKASI SISIWA\obj\Debug\APPLIKASI SISIWA.xml
+C:\Users\user\AppData\Local\Temporary Projects\APPLIKASI SISIWA\obj\Debug\APPLIKASI SISIWA.pdb
+D:\DOCUMENT TUGAS\VB\APPLIKASI SISIWA\APPLIKASI SISIWA\bin\Debug\APPLIKASI SISIWA.exe.config
+D:\DOCUMENT TUGAS\VB\APPLIKASI SISIWA\APPLIKASI SISIWA\obj\Debug\APPLIKASI SISIWA.exe
+D:\DOCUMENT TUGAS\VB\APPLIKASI SISIWA\APPLIKASI SISIWA\obj\Debug\APPLIKASI SISIWA.xml
+D:\DOCUMENT TUGAS\VB\APPLIKASI SISIWA\APPLIKASI SISIWA\obj\Debug\APPLIKASI SISIWA.pdb

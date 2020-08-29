@@ -1,0 +1,11 @@
+D:\DOCUMENT TUGAS\VB\database\database\bin\Debug\database.exe.config
+D:\DOCUMENT TUGAS\VB\database\database\bin\Debug\database.exe
+D:\DOCUMENT TUGAS\VB\database\database\bin\Debug\database.pdb
+D:\DOCUMENT TUGAS\VB\database\database\bin\Debug\database.xml
+D:\DOCUMENT TUGAS\VB\database\database\obj\Debug\database.vbprojResolveAssemblyReference.cache
+D:\DOCUMENT TUGAS\VB\database\database\obj\Debug\database.Form1.resources
+D:\DOCUMENT TUGAS\VB\database\database\obj\Debug\database.Resources.resources
+D:\DOCUMENT TUGAS\VB\database\database\obj\Debug\database.vbproj.GenerateResource.Cache
+D:\DOCUMENT TUGAS\VB\database\database\obj\Debug\database.exe
+D:\DOCUMENT TUGAS\VB\database\database\obj\Debug\database.xml
+D:\DOCUMENT TUGAS\VB\database\database\obj\Debug\database.pdb

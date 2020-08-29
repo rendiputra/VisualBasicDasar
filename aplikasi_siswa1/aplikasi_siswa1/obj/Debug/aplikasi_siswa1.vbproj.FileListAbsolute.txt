@@ -1,0 +1,22 @@
+C:\Users\MTR\Documents\Visual Studio 2012\Projects\aplikasi_siswa1\aplikasi_siswa1\bin\Debug\aplikasi_siswa1.exe.config
+C:\Users\MTR\Documents\Visual Studio 2012\Projects\aplikasi_siswa1\aplikasi_siswa1\bin\Debug\aplikasi_siswa1.exe
+C:\Users\MTR\Documents\Visual Studio 2012\Projects\aplikasi_siswa1\aplikasi_siswa1\bin\Debug\aplikasi_siswa1.pdb
+C:\Users\MTR\Documents\Visual Studio 2012\Projects\aplikasi_siswa1\aplikasi_siswa1\bin\Debug\aplikasi_siswa1.xml
+C:\Users\MTR\Documents\Visual Studio 2012\Projects\aplikasi_siswa1\aplikasi_siswa1\obj\Debug\aplikasi_siswa.Form1.resources
+C:\Users\MTR\Documents\Visual Studio 2012\Projects\aplikasi_siswa1\aplikasi_siswa1\obj\Debug\aplikasi_siswa.Resources.resources
+C:\Users\MTR\Documents\Visual Studio 2012\Projects\aplikasi_siswa1\aplikasi_siswa1\obj\Debug\aplikasi_siswa1.vbproj.GenerateResource.Cache
+C:\Users\MTR\Documents\Visual Studio 2012\Projects\aplikasi_siswa1\aplikasi_siswa1\obj\Debug\aplikasi_siswa1.exe
+C:\Users\MTR\Documents\Visual Studio 2012\Projects\aplikasi_siswa1\aplikasi_siswa1\obj\Debug\aplikasi_siswa1.xml
+C:\Users\MTR\Documents\Visual Studio 2012\Projects\aplikasi_siswa1\aplikasi_siswa1\obj\Debug\aplikasi_siswa1.pdb
+D:\DOCUMENT TUGAS\VB\aplikasi_siswa1\aplikasi_siswa1\bin\Debug\aplikasi_siswa1.exe.config
+D:\DOCUMENT TUGAS\VB\aplikasi_siswa1\aplikasi_siswa1\obj\Debug\aplikasi_siswa1.exe
+D:\DOCUMENT TUGAS\VB\aplikasi_siswa1\aplikasi_siswa1\obj\Debug\aplikasi_siswa1.xml
+D:\DOCUMENT TUGAS\VB\aplikasi_siswa1\aplikasi_siswa1\obj\Debug\aplikasi_siswa1.pdb
+D:\DOCUMENT TUGAS\VB\aplikasi_siswa1\aplikasi_siswa1\bin\Debug\aplikasi_siswa1.exe
+D:\DOCUMENT TUGAS\VB\aplikasi_siswa1\aplikasi_siswa1\bin\Debug\aplikasi_siswa1.pdb
+D:\DOCUMENT TUGAS\VB\aplikasi_siswa1\aplikasi_siswa1\bin\Debug\aplikasi_siswa1.xml
+D:\DOCUMENT TUGAS\VB\aplikasi_siswa1\aplikasi_siswa1\obj\Debug\aplikasi_siswa1.vbprojResolveAssemblyReference.cache
+D:\DOCUMENT TUGAS\VB\aplikasi_siswa1\aplikasi_siswa1\obj\Debug\aplikasi_siswa.Form1.resources
+D:\DOCUMENT TUGAS\VB\aplikasi_siswa1\aplikasi_siswa1\obj\Debug\aplikasi_siswa.Resources.resources
+D:\DOCUMENT TUGAS\VB\aplikasi_siswa1\aplikasi_siswa1\obj\Debug\aplikasi_siswa.tambah_data.resources
+D:\DOCUMENT TUGAS\VB\aplikasi_siswa1\aplikasi_siswa1\obj\Debug\aplikasi_siswa1.vbproj.GenerateResource.Cache

@@ -1,0 +1,11 @@
+D:\DOCUMENT TUGAS\VB\kasirsederhana\kasirsederhana\bin\Debug\kasirsederhana.exe.config
+D:\DOCUMENT TUGAS\VB\kasirsederhana\kasirsederhana\bin\Debug\kasirsederhana.exe
+D:\DOCUMENT TUGAS\VB\kasirsederhana\kasirsederhana\bin\Debug\kasirsederhana.pdb
+D:\DOCUMENT TUGAS\VB\kasirsederhana\kasirsederhana\bin\Debug\kasirsederhana.xml
+D:\DOCUMENT TUGAS\VB\kasirsederhana\kasirsederhana\obj\Debug\kasirsederhana.vbprojResolveAssemblyReference.cache
+D:\DOCUMENT TUGAS\VB\kasirsederhana\kasirsederhana\obj\Debug\kasirsederhana.Form1.resources
+D:\DOCUMENT TUGAS\VB\kasirsederhana\kasirsederhana\obj\Debug\kasirsederhana.Resources.resources
+D:\DOCUMENT TUGAS\VB\kasirsederhana\kasirsederhana\obj\Debug\kasirsederhana.vbproj.GenerateResource.Cache
+D:\DOCUMENT TUGAS\VB\kasirsederhana\kasirsederhana\obj\Debug\kasirsederhana.exe
+D:\DOCUMENT TUGAS\VB\kasirsederhana\kasirsederhana\obj\Debug\kasirsederhana.xml
+D:\DOCUMENT TUGAS\VB\kasirsederhana\kasirsederhana\obj\Debug\kasirsederhana.pdb

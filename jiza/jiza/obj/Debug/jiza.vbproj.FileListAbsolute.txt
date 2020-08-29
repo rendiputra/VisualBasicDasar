@@ -1,0 +1,48 @@
+c:\users\jizdan jr\documents\visual studio 2012\Projects\jiza\jiza\bin\Debug\jiza.exe.config
+C:\Users\Jizdan Jr\Documents\Visual Studio 2012\Projects\jiza\jiza\obj\Debug\jiza.Form1.resources
+C:\Users\Jizdan Jr\Documents\Visual Studio 2012\Projects\jiza\jiza\obj\Debug\jiza.Form2.resources
+C:\Users\Jizdan Jr\Documents\Visual Studio 2012\Projects\jiza\jiza\obj\Debug\jiza.Resources.resources
+C:\Users\Jizdan Jr\Documents\Visual Studio 2012\Projects\jiza\jiza\obj\Debug\jiza.vbproj.GenerateResource.Cache
+C:\Users\Jizdan Jr\Documents\Visual Studio 2012\Projects\jiza\jiza\bin\Debug\jiza.exe
+C:\Users\Jizdan Jr\Documents\Visual Studio 2012\Projects\jiza\jiza\bin\Debug\jiza.pdb
+C:\Users\Jizdan Jr\Documents\Visual Studio 2012\Projects\jiza\jiza\bin\Debug\jiza.xml
+C:\Users\Jizdan Jr\Documents\Visual Studio 2012\Projects\jiza\jiza\obj\Debug\jiza.exe
+C:\Users\Jizdan Jr\Documents\Visual Studio 2012\Projects\jiza\jiza\obj\Debug\jiza.xml
+C:\Users\Jizdan Jr\Documents\Visual Studio 2012\Projects\jiza\jiza\obj\Debug\jiza.pdb
+C:\Users\Jizdan Jr\Documents\Visual Studio 2012\Projects\jiza\jiza\obj\Debug\jiza.Form3.resources
+C:\Users\Jizdan Jr\Documents\Visual Studio 2012\Projects\jiza\jiza\obj\Debug\jiza.vbprojResolveAssemblyReference.cache
+C:\Users\Jizdan Jr\Documents\Visual Studio 2012\Projects\jiza\jiza\obj\Debug\jiza.Form4.resources
+D:\DOCUMENT TUGAS\VB\jiza\jiza\bin\Debug\jiza.exe.config
+D:\DOCUMENT TUGAS\VB\jiza\jiza\obj\Debug\jiza.exe
+D:\DOCUMENT TUGAS\VB\jiza\jiza\obj\Debug\jiza.xml
+D:\DOCUMENT TUGAS\VB\jiza\jiza\obj\Debug\jiza.pdb
+D:\DOCUMENT TUGAS\VB\jiza\jiza\bin\Debug\jiza.exe
+D:\DOCUMENT TUGAS\VB\jiza\jiza\bin\Debug\jiza.pdb
+D:\DOCUMENT TUGAS\VB\jiza\jiza\bin\Debug\jiza.xml
+D:\DOCUMENT TUGAS\VB\jiza\jiza\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\DOCUMENT TUGAS\VB\jiza\jiza\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\DOCUMENT TUGAS\VB\jiza\jiza\bin\Debug\CrystalDecisions.Shared.dll
+D:\DOCUMENT TUGAS\VB\jiza\jiza\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\DOCUMENT TUGAS\VB\jiza\jiza\bin\Debug\FlashControlV71.dll
+D:\DOCUMENT TUGAS\VB\jiza\jiza\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\DOCUMENT TUGAS\VB\jiza\jiza\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\DOCUMENT TUGAS\VB\jiza\jiza\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\DOCUMENT TUGAS\VB\jiza\jiza\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\DOCUMENT TUGAS\VB\jiza\jiza\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\DOCUMENT TUGAS\VB\jiza\jiza\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\DOCUMENT TUGAS\VB\jiza\jiza\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\DOCUMENT TUGAS\VB\jiza\jiza\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\DOCUMENT TUGAS\VB\jiza\jiza\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\DOCUMENT TUGAS\VB\jiza\jiza\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\DOCUMENT TUGAS\VB\jiza\jiza\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\DOCUMENT TUGAS\VB\jiza\jiza\bin\Debug\ShockwaveFlashObjects.dll
+D:\DOCUMENT TUGAS\VB\jiza\jiza\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\DOCUMENT TUGAS\VB\jiza\jiza\bin\Debug\stdole.dll
+D:\DOCUMENT TUGAS\VB\jiza\jiza\obj\Debug\jiza.vbprojResolveAssemblyReference.cache
+D:\DOCUMENT TUGAS\VB\jiza\jiza\obj\Debug\jiza.Form1.resources
+D:\DOCUMENT TUGAS\VB\jiza\jiza\obj\Debug\jiza.Form2.resources
+D:\DOCUMENT TUGAS\VB\jiza\jiza\obj\Debug\jiza.Form3.resources
+D:\DOCUMENT TUGAS\VB\jiza\jiza\obj\Debug\jiza.Form4.resources
+D:\DOCUMENT TUGAS\VB\jiza\jiza\obj\Debug\jiza.Resources.resources
+D:\DOCUMENT TUGAS\VB\jiza\jiza\obj\Debug\jiza.vbproj.GenerateResource.Cache
+D:\DOCUMENT TUGAS\VB\jiza\jiza\obj\Debug\jiza.Form6.resources

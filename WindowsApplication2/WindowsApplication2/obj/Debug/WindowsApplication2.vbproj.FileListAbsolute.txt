@@ -1,0 +1,11 @@
+D:\DOCUMENT TUGAS\VB\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+D:\DOCUMENT TUGAS\VB\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+D:\DOCUMENT TUGAS\VB\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+D:\DOCUMENT TUGAS\VB\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+D:\DOCUMENT TUGAS\VB\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+D:\DOCUMENT TUGAS\VB\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+D:\DOCUMENT TUGAS\VB\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+D:\DOCUMENT TUGAS\VB\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+D:\DOCUMENT TUGAS\VB\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+D:\DOCUMENT TUGAS\VB\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+D:\DOCUMENT TUGAS\VB\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb

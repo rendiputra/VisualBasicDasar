@@ -1,0 +1,25 @@
+D:\DOCUMENT TUGAS\VB\mtk v1\mtk v1\bin\Debug\mtk v1.exe.config
+D:\DOCUMENT TUGAS\VB\mtk v1\mtk v1\bin\Debug\mtk v1.exe
+D:\DOCUMENT TUGAS\VB\mtk v1\mtk v1\bin\Debug\mtk v1.pdb
+D:\DOCUMENT TUGAS\VB\mtk v1\mtk v1\bin\Debug\mtk v1.xml
+D:\DOCUMENT TUGAS\VB\mtk v1\mtk v1\obj\Debug\mtk v1.vbprojResolveAssemblyReference.cache
+D:\DOCUMENT TUGAS\VB\mtk v1\mtk v1\obj\Debug\mtk_v1.Form1.resources
+D:\DOCUMENT TUGAS\VB\mtk v1\mtk v1\obj\Debug\mtk_v1.Form2.resources
+D:\DOCUMENT TUGAS\VB\mtk v1\mtk v1\obj\Debug\mtk_v1.Resources.resources
+D:\DOCUMENT TUGAS\VB\mtk v1\mtk v1\obj\Debug\mtk v1.vbproj.GenerateResource.Cache
+D:\DOCUMENT TUGAS\VB\mtk v1\mtk v1\obj\Debug\mtk v1.exe
+D:\DOCUMENT TUGAS\VB\mtk v1\mtk v1\obj\Debug\mtk v1.xml
+D:\DOCUMENT TUGAS\VB\mtk v1\mtk v1\obj\Debug\mtk v1.pdb
+D:\DOCUMENT TUGAS\VB\mtk v1\mtk v1\obj\Debug\mtk_v1.pp.resources
+D:\DOCUMENT TUGAS\VB\mtk v1\mtk v1\obj\Debug\mtk_v1.Segitiga.resources
+D:\DOCUMENT TUGAS\VB\mtk v1\mtk v1\obj\Debug\mtk_v1.jargen.resources
+D:\DOCUMENT TUGAS\VB\mtk v1\mtk v1\obj\Debug\mtk_v1.trape.resources
+D:\DOCUMENT TUGAS\VB\mtk v1\mtk v1\obj\Debug\mtk_v1.layang.resources
+D:\DOCUMENT TUGAS\VB\mtk v1\mtk v1\obj\Debug\mtk_v1.lingk.resources
+D:\DOCUMENT TUGAS\VB\mtk v1\mtk v1\obj\Debug\mtk_v1.bk.resources
+D:\DOCUMENT TUGAS\VB\mtk v1\mtk v1\obj\Debug\mtk_v1.kubus.resources
+D:\DOCUMENT TUGAS\VB\mtk v1\mtk v1\obj\Debug\mtk_v1.balok.resources
+D:\DOCUMENT TUGAS\VB\mtk v1\mtk v1\obj\Debug\mtk_v1.kerucut.resources
+D:\DOCUMENT TUGAS\VB\mtk v1\mtk v1\obj\Debug\mtk_v1.tabung.resources
+D:\DOCUMENT TUGAS\VB\mtk v1\mtk v1\obj\Debug\mtk_v1.bola.resources
+D:\DOCUMENT TUGAS\VB\mtk v1\mtk v1\obj\Debug\mtk_v1.prisma.resources

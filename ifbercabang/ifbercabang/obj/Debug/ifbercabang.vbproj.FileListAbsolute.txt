@@ -1,0 +1,11 @@
+D:\DOCUMENT TUGAS\VB\ifbercabang\ifbercabang\bin\Debug\ifbercabang.exe.config
+D:\DOCUMENT TUGAS\VB\ifbercabang\ifbercabang\bin\Debug\ifbercabang.exe
+D:\DOCUMENT TUGAS\VB\ifbercabang\ifbercabang\bin\Debug\ifbercabang.pdb
+D:\DOCUMENT TUGAS\VB\ifbercabang\ifbercabang\bin\Debug\ifbercabang.xml
+D:\DOCUMENT TUGAS\VB\ifbercabang\ifbercabang\obj\Debug\ifbercabang.vbprojResolveAssemblyReference.cache
+D:\DOCUMENT TUGAS\VB\ifbercabang\ifbercabang\obj\Debug\ifbercabang.Form1.resources
+D:\DOCUMENT TUGAS\VB\ifbercabang\ifbercabang\obj\Debug\ifbercabang.Resources.resources
+D:\DOCUMENT TUGAS\VB\ifbercabang\ifbercabang\obj\Debug\ifbercabang.vbproj.GenerateResource.Cache
+D:\DOCUMENT TUGAS\VB\ifbercabang\ifbercabang\obj\Debug\ifbercabang.exe
+D:\DOCUMENT TUGAS\VB\ifbercabang\ifbercabang\obj\Debug\ifbercabang.xml
+D:\DOCUMENT TUGAS\VB\ifbercabang\ifbercabang\obj\Debug\ifbercabang.pdb

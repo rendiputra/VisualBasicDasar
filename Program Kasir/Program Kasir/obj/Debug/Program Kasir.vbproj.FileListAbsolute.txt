@@ -1,0 +1,24 @@
+c:\users\asus\documents\visual studio 2015\Projects\Program Kasir\Program Kasir\bin\Debug\Program Kasir.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\Program Kasir\Program Kasir\bin\Debug\Program Kasir.exe
+c:\users\asus\documents\visual studio 2015\Projects\Program Kasir\Program Kasir\bin\Debug\Program Kasir.pdb
+c:\users\asus\documents\visual studio 2015\Projects\Program Kasir\Program Kasir\bin\Debug\Program Kasir.xml
+c:\users\asus\documents\visual studio 2015\Projects\Program Kasir\Program Kasir\obj\Debug\Program Kasir.vbprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\Program Kasir\Program Kasir\obj\Debug\Program_Kasir.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\Program Kasir\Program Kasir\obj\Debug\Program_Kasir.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\Program Kasir\Program Kasir\obj\Debug\Program Kasir.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\Program Kasir\Program Kasir\obj\Debug\Program Kasir.exe
+c:\users\asus\documents\visual studio 2015\Projects\Program Kasir\Program Kasir\obj\Debug\Program Kasir.xml
+c:\users\asus\documents\visual studio 2015\Projects\Program Kasir\Program Kasir\obj\Debug\Program Kasir.pdb
+C:\Users\ASUS\documents\visual studio 2015\Projects\Program Kasir\Program Kasir\obj\Debug\Program_Kasir.Form2.resources
+D:\DOCUMENT TUGAS\VB\Program Kasir\Program Kasir\bin\Debug\Program Kasir.exe.config
+D:\DOCUMENT TUGAS\VB\Program Kasir\Program Kasir\obj\Debug\Program Kasir.exe
+D:\DOCUMENT TUGAS\VB\Program Kasir\Program Kasir\obj\Debug\Program Kasir.xml
+D:\DOCUMENT TUGAS\VB\Program Kasir\Program Kasir\obj\Debug\Program Kasir.pdb
+D:\DOCUMENT TUGAS\VB\Program Kasir\Program Kasir\bin\Debug\Program Kasir.exe
+D:\DOCUMENT TUGAS\VB\Program Kasir\Program Kasir\bin\Debug\Program Kasir.pdb
+D:\DOCUMENT TUGAS\VB\Program Kasir\Program Kasir\bin\Debug\Program Kasir.xml
+D:\DOCUMENT TUGAS\VB\Program Kasir\Program Kasir\obj\Debug\Program Kasir.vbprojResolveAssemblyReference.cache
+D:\DOCUMENT TUGAS\VB\Program Kasir\Program Kasir\obj\Debug\Program_Kasir.Form1.resources
+D:\DOCUMENT TUGAS\VB\Program Kasir\Program Kasir\obj\Debug\Program_Kasir.Form2.resources
+D:\DOCUMENT TUGAS\VB\Program Kasir\Program Kasir\obj\Debug\Program_Kasir.Resources.resources
+D:\DOCUMENT TUGAS\VB\Program Kasir\Program Kasir\obj\Debug\Program Kasir.vbproj.GenerateResource.Cache

@@ -1,0 +1,13 @@
+D:\DOCUMENT TUGAS\VB\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe.config
+D:\DOCUMENT TUGAS\VB\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+D:\DOCUMENT TUGAS\VB\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+D:\DOCUMENT TUGAS\VB\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+D:\DOCUMENT TUGAS\VB\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.vbprojResolveAssemblyReference.cache
+D:\DOCUMENT TUGAS\VB\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Form1.resources
+D:\DOCUMENT TUGAS\VB\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Resources.resources
+D:\DOCUMENT TUGAS\VB\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.vbproj.GenerateResource.Cache
+D:\DOCUMENT TUGAS\VB\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.exe
+D:\DOCUMENT TUGAS\VB\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.xml
+D:\DOCUMENT TUGAS\VB\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.pdb
+D:\DOCUMENT TUGAS\VB\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Form2.resources
+D:\DOCUMENT TUGAS\VB\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Form3.resources

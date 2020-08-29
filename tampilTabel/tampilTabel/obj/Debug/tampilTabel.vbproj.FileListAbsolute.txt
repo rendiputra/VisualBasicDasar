@@ -1,0 +1,2 @@
+c:\users\nenovo\documents\visual studio 2012\Projects\tampilTabel\tampilTabel\bin\Debug\tampilTabel.exe.config
+D:\DOCUMENT TUGAS\VB\tampilTabel\tampilTabel\bin\Debug\tampilTabel.exe.config

@@ -1,0 +1,10 @@
+C:\Users\MTR\AppData\Local\Temporary Projects\aplikasi_siswa\bin\Debug\aplikasi_siswa.exe.config
+C:\Users\MTR\AppData\Local\Temporary Projects\aplikasi_siswa\bin\Debug\aplikasi_siswa.exe
+C:\Users\MTR\AppData\Local\Temporary Projects\aplikasi_siswa\bin\Debug\aplikasi_siswa.pdb
+C:\Users\MTR\AppData\Local\Temporary Projects\aplikasi_siswa\bin\Debug\aplikasi_siswa.xml
+C:\Users\MTR\AppData\Local\Temporary Projects\aplikasi_siswa\obj\Debug\aplikasi_siswa.Form1.resources
+C:\Users\MTR\AppData\Local\Temporary Projects\aplikasi_siswa\obj\Debug\aplikasi_siswa.Resources.resources
+C:\Users\MTR\AppData\Local\Temporary Projects\aplikasi_siswa\obj\Debug\aplikasi_siswa.vbproj.GenerateResource.Cache
+C:\Users\MTR\AppData\Local\Temporary Projects\aplikasi_siswa\obj\Debug\aplikasi_siswa.exe
+C:\Users\MTR\AppData\Local\Temporary Projects\aplikasi_siswa\obj\Debug\aplikasi_siswa.xml
+C:\Users\MTR\AppData\Local\Temporary Projects\aplikasi_siswa\obj\Debug\aplikasi_siswa.pdb
